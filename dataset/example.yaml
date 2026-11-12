@@ -1,0 +1,7 @@
+train: images/train
+val: images/val
+names:
+  0: aircraft
+  1: oiltank
+  2: playground
+  3: overpass
